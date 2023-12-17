@@ -1,0 +1,23 @@
+Important parameters:- 
+
+1. Clk Period
+2. syn_opt_effort
+3. syn_map_effort
+4. syn_global_effort
+5. syn_generic_effort
+6. optimize_constant_latches
+7. optimize_constant_feedback_seqs
+8. optimize_constant_across_preserved
+9. optimize_merge_flops
+10. optimize_net_area
+11. optimize_seq_x_to
+12. override_library_max_drc
+13. partition_based_synthesis
+14. retime_effort_level
+15. retime_optimize_reset
+16. use_multibit_seq_and_tristate_cells
+17. bank_based_multibit_inferencing
+18. control_logic_optimization
+19. dont_use_qbar_seq_pins
+20. dp_analytical_opt
+
